@@ -1,6 +1,6 @@
 # Portfolio Reloaded
 
-Welcome to Portfolio Reloaded. Here you can my professional Web Developer Portfoilio. You can learn a few things about me as well as gain my contact information for career offers.
+Welcome to Portfolio Reloaded. Here you can read my professional Web Developer Portfoilio. You can learn a few things about me as well add my contact information for career offers.
 
 <img href="assets/Index2.png">
 
